@@ -2,7 +2,7 @@
   "name": "team-activity-1",
   "version": "1.0.0",
   "description": "TEam activity 1",
-  "main": "dist/app.js",
+  "main": "",
   "scripts": {
     "build": "npx tsc",
     "start": "npm run build && nodemon dist/app.js"

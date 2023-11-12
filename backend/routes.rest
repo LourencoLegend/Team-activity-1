@@ -1,1 +1,1 @@
-GET http://localhost:8080/professional
+GET http://localhost:8080/professional # the request above returns a json object with all professional data for Lourenco Da Silva
